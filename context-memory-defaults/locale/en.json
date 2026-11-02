@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Quiet Memory Defaults",
+    "description": "Turns dsh-context-memory auto capture and turn-end harvest off at every start, so only statements you explicitly ask to remember enter the log."
+  }
+}

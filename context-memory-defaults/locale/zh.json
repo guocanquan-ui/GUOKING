@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "记忆默认静音",
+    "description": "每次启动都把 dsh-context-memory 的自动捕获与轮末收割关掉，只保留你明确说「记住…」时才写入记忆。"
+  }
+}

@@ -1,0 +1,6 @@
+- insert:
+    - id: context-memory-defaults
+      name: '@local/context-memory-defaults'
+      config:
+        autoCapture: false
+        harvest: false
