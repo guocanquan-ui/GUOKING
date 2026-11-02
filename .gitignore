@@ -4,6 +4,9 @@ node_modules/
 # Logs
 *.log
 
+# dsh-context-memory project memory log (machine-local state, not project source)
+.memory/
+
 # Editor / OS noise
 .DS_Store
 Thumbs.db
